@@ -1,0 +1,7 @@
+C:\Users\Nitin\source\repos\PromotionSystem\bin\Debug\PromotionSystem.exe.config
+C:\Users\Nitin\source\repos\PromotionSystem\bin\Debug\PromotionSystem.exe
+C:\Users\Nitin\source\repos\PromotionSystem\bin\Debug\PromotionSystem.pdb
+C:\Users\Nitin\source\repos\PromotionSystem\obj\Debug\PromotionSystem.csprojAssemblyReference.cache
+C:\Users\Nitin\source\repos\PromotionSystem\obj\Debug\PromotionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nitin\source\repos\PromotionSystem\obj\Debug\PromotionSystem.exe
+C:\Users\Nitin\source\repos\PromotionSystem\obj\Debug\PromotionSystem.pdb

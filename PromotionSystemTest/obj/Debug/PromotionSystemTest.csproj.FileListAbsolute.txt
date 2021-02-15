@@ -1,0 +1,17 @@
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\PromotionSystemTest.dll
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\PromotionSystemTest.pdb
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\PromotionSystem.exe
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\PromotionSystem.pdb
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\PromotionSystem.exe.config
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nitin\source\repos\PromotionSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nitin\source\repos\PromotionSystemTest\obj\Debug\PromotionSystemTest.csprojAssemblyReference.cache
+C:\Users\Nitin\source\repos\PromotionSystemTest\obj\Debug\PromotionSystemTest.csproj.CoreCompileInputs.cache
+C:\Users\Nitin\source\repos\PromotionSystemTest\obj\Debug\PromotionSystemTest.csproj.CopyComplete
+C:\Users\Nitin\source\repos\PromotionSystemTest\obj\Debug\PromotionSystemTest.dll
+C:\Users\Nitin\source\repos\PromotionSystemTest\obj\Debug\PromotionSystemTest.pdb
